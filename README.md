@@ -18,7 +18,7 @@ A Python tool to scan for vulnerabilities in a network or website.
 
 3. Run the scanner:
     ```bash
-    python src/scanner.py
+    python scanner.py
     ```
 
 ## Usage
